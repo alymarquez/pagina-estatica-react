@@ -1,0 +1,14 @@
+footer {
+  background-color: #f7e8f2;
+  color: #6a4c6b;
+  text-align: center;
+  padding: 1.5rem 1rem;
+  font-family: 'Lora', serif;
+  font-size: 0.95rem;
+  border-top: 1px solid #e0c9da;
+  box-shadow: 0 -2px 8px rgba(183, 110, 184, 0.05);
+}
+
+footer p {
+  margin: 0;
+}

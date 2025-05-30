@@ -1,0 +1,54 @@
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.card {
+  width: 280px;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.1);
+  overflow: hidden;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.cardImage {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-bottom: 1px solid #eee;
+}
+
+.cardText {
+  padding: 1rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #444;
+  font-weight: 300;
+  font-family: 'Poppins', sans-serif;
+}
+
+.cardText p {
+  margin: 0.4rem 0;
+}
+
+.incluye {
+  font-style: italic;
+  color: #666;
+  font-size: 0.85rem;
+}
+
+h3 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.6rem;
+  margin-top: 0.8rem;
+  margin-bottom: 0.3rem;
+  color: #c27ba0;
+  font-weight: 600;
+}

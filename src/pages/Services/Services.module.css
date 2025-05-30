@@ -1,0 +1,40 @@
+#services {
+  background-color: #fff0f5;
+  padding: 4rem 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(120, 90, 130, 0.1);
+  font-family: 'Lora', serif;
+  color: #4a3c55;
+  text-align: center;
+}
+
+#services h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.8rem;
+  margin-bottom: 2rem;
+  color: #a46db9;
+}
+
+#services ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#services li {
+  font-size: 1.2rem;
+  padding: 1rem;
+  margin: 0.5rem auto;
+  background-color: #fdf7fb;
+  border: 1px solid #e3cfe9;
+  border-radius: 8px;
+  max-width: 500px;
+  transition: transform 0.2s ease;
+}
+
+#services li:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 10px rgba(170, 130, 190, 0.2);
+}

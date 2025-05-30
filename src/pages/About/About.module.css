@@ -1,0 +1,27 @@
+#about {
+  background: #f9f4f8;
+  padding: 4rem 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+  color: #4a3c55;
+  font-family: 'Lora', serif;
+  line-height: 1.7;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(110, 90, 120, 0.15);
+}
+
+#about h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #7b4b94;
+  font-weight: 700;
+  text-align: center;
+}
+
+#about p {
+  margin-bottom: 1.3rem;
+  font-size: 1.15rem;
+  color: #5e4a70;
+  text-align: justify;
+}
